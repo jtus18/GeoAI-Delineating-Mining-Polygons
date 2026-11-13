@@ -1,0 +1,4 @@
+split,images,mining_images,non_mining_images,mining_pct
+train,77665,40799,36866,52.53
+validation,11024,2526,8498,22.91
+test,22472,11934,10538,53.11
